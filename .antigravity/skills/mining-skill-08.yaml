@@ -1,0 +1,9 @@
+skill:
+  id: mining-skill-08
+  jurisdiction: El Salvador
+  iso: SV
+  status: ACTIVE_SCAFFOLD
+  description: Mining Skill #8 - Scaffold
+  guardrails:
+    - no_fabricated_citations
+    - primary_source_verification_required

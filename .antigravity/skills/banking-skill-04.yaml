@@ -1,0 +1,9 @@
+skill:
+  id: banking-skill-04
+  jurisdiction: El Salvador
+  iso: SV
+  status: ACTIVE_SCAFFOLD
+  description: Banking Skill #4 - Scaffold
+  guardrails:
+    - no_fabricated_citations
+    - primary_source_verification_required

@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: El Salvador
+  iso: SV
+  block: 7
+  range: [571,665]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "SV-V-0571"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0572"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0573"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0574"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0575"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0576"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0577"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0578"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0579"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0580"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0581"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0582"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0583"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0584"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0585"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0586"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0587"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0588"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0589"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0590"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0591"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0592"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0593"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0594"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0595"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0596"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0597"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0598"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0599"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0600"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0601"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0602"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0603"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0604"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0605"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0606"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0607"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0608"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0609"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0610"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0611"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0612"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0613"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0614"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0615"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0616"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0617"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0618"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0619"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0620"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0621"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0622"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0623"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0624"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0625"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0626"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0627"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0628"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0629"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0630"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0631"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0632"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0633"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0634"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0635"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0636"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0637"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0638"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0639"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0640"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0641"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0642"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0643"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0644"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0645"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0646"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0647"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0648"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0649"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0650"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0651"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0652"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0653"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0654"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0655"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0656"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0657"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0658"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0659"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0660"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0661"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0662"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0663"
+      anchor: "Gang violence and migration drivers"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0664"
+      anchor: "1980-1992 civil war and human rights abuses (UN Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "SV-V-0665"
+      anchor: "US security assistance and conflict dynamics (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
