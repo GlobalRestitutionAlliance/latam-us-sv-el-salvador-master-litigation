@@ -1,0 +1,17 @@
+{
+  "url": "https://www.oas.org/en/member_states/member_state.asp?sCode=ELS",
+  "final_url": "https://www.oas.org/ext/en/main/oas/member-states",
+  "title": "OAS - El Salvador",
+  "fetched_at": "2026-11-23T14:28:24.273282Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 46451,
+  "sha256": "76c544c6464a36938ad09b4d639d913176e64979fe247383d05c1a864b8fceb2",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

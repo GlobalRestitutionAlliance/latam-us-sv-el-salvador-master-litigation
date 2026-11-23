@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/americas/el-salvador",
+  "final_url": "https://www.hrw.org/americas/el-salvador",
+  "title": "HRW - El Salvador",
+  "fetched_at": "2026-11-23T14:28:23.376445Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 195620,
+  "sha256": "0cb4c2ee08f7fc49a109a3369c663ad20f3f36e844c4947af5a23b3c229d05b9",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
